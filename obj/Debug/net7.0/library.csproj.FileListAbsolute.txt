@@ -1,0 +1,15 @@
+C:\projects\C#\library cs\bin\Debug\net7.0\library.exe
+C:\projects\C#\library cs\bin\Debug\net7.0\library.deps.json
+C:\projects\C#\library cs\bin\Debug\net7.0\library.runtimeconfig.json
+C:\projects\C#\library cs\bin\Debug\net7.0\library.dll
+C:\projects\C#\library cs\bin\Debug\net7.0\library.pdb
+C:\projects\C#\library cs\obj\Debug\net7.0\library.csproj.AssemblyReference.cache
+C:\projects\C#\library cs\obj\Debug\net7.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\library cs\obj\Debug\net7.0\library.AssemblyInfoInputs.cache
+C:\projects\C#\library cs\obj\Debug\net7.0\library.AssemblyInfo.cs
+C:\projects\C#\library cs\obj\Debug\net7.0\library.csproj.CoreCompileInputs.cache
+C:\projects\C#\library cs\obj\Debug\net7.0\library.dll
+C:\projects\C#\library cs\obj\Debug\net7.0\refint\library.dll
+C:\projects\C#\library cs\obj\Debug\net7.0\library.pdb
+C:\projects\C#\library cs\obj\Debug\net7.0\library.genruntimeconfig.cache
+C:\projects\C#\library cs\obj\Debug\net7.0\ref\library.dll
